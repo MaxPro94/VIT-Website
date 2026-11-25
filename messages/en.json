@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "siteName": "VIT",
+    "homeTitle": "VIT — Vatallus Infused Templars",
+    "homeDescription": "VIT is a predominantly French-speaking AceOnline brigade on Old School Rivals. Discover our community, approach to PvP and recruitment expectations.",
+    "applyTitle": "Application — VIT",
+    "applyDescription": "Tell us about your pilot and experience to join VIT on Old School Rivals. No account required to use the form.",
+    "beforeTitle": "Before you apply — VIT",
+    "beforeDescription": "Learn about VIT''s recruitment expectations, war organisation and one-month trial period before applying.",
+    "leaderboardTitle": "Leaderboard — VIT",
+    "leaderboardDescription": "Performance and progression of VIT pilots on Old School Rivals."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "The brigade",
+    "values": "Our values",
+    "media": "Media",
+    "leaderboard": "Leaderboard",
+    "join": "Join VIT",
+    "before": "Before you apply",
+    "discord": "Discord",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skip": "Skip to content",
+    "primary": "Primary"
+  },
+  "language": {
+    "label": "Change language",
+    "en": "English",
+    "fr": "French",
+    "shortEn": "EN",
+    "shortFr": "FR"
+  },
+  "hero": {
+    "kicker": "LOYALTY. HONOUR. EXCELLENCE.",
+    "line": "AceOnline veterans flying under the same colours.",
+    "cta": "Join VIT",
+    "scroll": "Discover the brigade",
+    "emblemAlt": "VIT emblem",
+    "context": "{game} · {server}"
+  },
+  "stats": {
+    "index": "01",
+    "label": "VIT in numbers",
+    "members": "Members",
+    "ranking": "Overall ranking",
+    "totalFame": "Total Fame",
+    "monthlyFame": "Monthly Fame",
+    "nation": "Current nation: {nation}",
+    "unavailable": "Unavailable",
+    "manual": "Public ranking",
+    "sourceNote": "Public OSR brigade rankings, sorted by Total Fame. Snapshot: {date}.",
+    "unavailableNote": "The public OSR reading is not available yet.",
+    "stale": "This reading is more than 26 hours old.",
+    "rankingLink": "View OSR rankings",
+    "leaderboardLink": "View VIT characters"
+  },
+  "brotherhood": {
+    "index": "02",
+    "eyebrow": "The brigade",
+    "title": "A brigade founded by friends.",
+    "origin": "VIT started on {server} as a group of friends with a shared passion for {game}. We are predominantly French-speaking, with English-speaking members as well. Some of us have been playing together for several years.",
+    "name": "Our name, {name}, references the Vatallus from {game} lore and the Knights Templar, a nod to the brigade''s French roots.",
+    "ambition": "We play together in PvP and wars, as well as farming and hunting bosses. Our goal is to establish VIT as a leading brigade on OSR, with a roster we can rely on.",
+    "warsTitle": "How we approach wars",
+    "wars": "During Mother Ships and Outpost Wars, each of our formations includes an M-Gear, who often takes on the role of shotcaller. We use voice comms to coordinate our play and run private PvP sessions with brigade members to improve our teamwork and refine our strategies.",
+    "commitmentTitle": "Our commitment to OSR",
+    "commitment": "We want OSR to remain active and competitive. We currently play for {nation}, but we are willing to consider switching nations as a brigade if that is what the server needs. The future of OSR matters more to us than a short-term advantage in-game."
+  },
+  "code": {
+    "index": "03",
+    "eyebrow": "Our values",
+    "title": "What matters to us.",
+    "values": {
+      "brotherhood": {
+        "name": "Brotherhood",
+        "text": "We share our experience, advice and resources. Whether we are farming, working on a build or practising PvP, we make time to help each other.",
+        "principle": "we help each other and share our experience."
+      },
+      "loyalty": {
+        "name": "Loyalty",
+        "text": "We are looking for members who want to stay with the brigade for the long run. A better offer of gear or WP should not outweigh a commitment to the people you play with.",
+        "principle": "we value long-term commitment to the brigade over material advantages."
+      },
+      "honour": {
+        "name": "Honour",
+        "text": "We respect opponents just as much as allies. Rivalry and light-hearted banter are part of the game, as long as they stay respectful. Cheating and personal attacks have no place in VIT.",
+        "principle": "we respect opponents and allies; cheating and personal attacks are not accepted."
+      },
+      "respect": {
+        "name": "Respect",
+        "text": "we respect every player and the server rules.",
+        "principle": "we respect every player and the server rules."
+      },
+      "discipline": {
+        "name": "Discipline",
+        "text": "during wars, we follow calls and join Discord voice comms, at least to listen.",
+        "principle": "during wars, we follow calls and join Discord voice comms, at least to listen."
+      },
+      "excellence": {
+        "name": "Excellence",
+        "text": "We work on our PvP, coordination and strategies through training and wars. When a call or a formation does not work, we take the time to understand why.",
+        "principle": "we improve through training and constructive self-reflection."
+      },
+      "support": {
+        "name": "Mutual support",
+        "text": "we help our members and prioritise teamwork.",
+        "principle": "we help our members and prioritise teamwork."
+      },
+      "competitive": {
+        "name": "Competitive spirit",
+        "text": "we play to win while respecting everyone''s enjoyment of the game and real-life commitments.",
+        "principle": "we play to win while respecting everyone''s enjoyment of the game and real-life commitments."
+      }
+    }
+  },
+  "officers": {
+    "index": "04",
+    "eyebrow": "Leadership",
+    "title": "VIT leadership",
+    "roles": {
+      "leader": "Brigade Leader",
+      "deputy": "Deputy Leader",
+      "lieutenant": "Lieutenant"
+    }
+  },
+  "media": {
+    "index": "05",
+    "eyebrow": "Media",
+    "title": "VIT in action",
+    "lead": "Wars, PvP and gameplay highlights, edited by our own members.",
+    "empty": "Films and images from the brigade will be published here. Nothing is listed until the material exists.",
+    "channel": "YouTube channel",
+    "byline": "A video by {name}",
+    "onYoutube": "Watch on YouTube",
+    "playHere": "Play here",
+    "closePlayer": "Close player",
+    "films": "Brigade films",
+    "position": "Video {current} of {total}",
+    "previous": "Previous video",
+    "next": "Next video",
+    "pause": "Pause",
+    "resume": "Play",
+    "watch": "Play {title}",
+    "playerTitle": "{title}"
+  },
+  "cta": {
+    "index": "06",
+    "eyebrow": "Recruitment",
+    "title": "Join VIT",
+    "text": "We are recruiting players who know AceOnline, enjoy PvP and want to commit to a brigade for the long run. We take wars seriously while respecting everyone''s availability.",
+    "statusOpen": "Recruitment open",
+    "statusClosed": "Recruitment closed",
+    "priority": "{gear}s prioritised",
+    "criteria": "We consider all Gear types. French-speaking applicants are prioritised, but international applications are welcome. There is no minimum level requirement.",
+    "notice": "Applications cannot be submitted at this time.",
+    "button": "Apply to join",
+    "before": "Before you apply"
+  },
+  "leaderboard": {
+    "eyebrow": "Old School Rivals",
+    "title": "VIT Leaderboard",
+    "intro": "Explore the performance and progression of VIT pilots on Old School Rivals.",
+    "unavailable": "No public reading is available. The leaderboard does not show fictional characters.",
+    "recorded": "Reading from {date}.",
+    "stale": "Reading from {date}. This reading is more than 26 hours old.",
+    "labels": "Win is the total number of duels won. Monthly and Lose keep the source labels.",
+    "search": "Search for a pilot",
+    "empty": "No pilot matches this search.",
+    "source": "Open the OSR ranking",
+    "detail": "About this reading",
+    "shortfall": "{visible} referenced characters out of {members} members announced by OSR.",
+    "boards": "{count} public boards read.",
+    "nation": "Current nation: {nation}",
+    "results": "{count, plural, one {# pilot} other {# pilots}}",
+    "reset": "Reset",
+    "podiumNote": "Podium calculated among referenced characters.",
+    "podiumTitle": "Podium",
+    "podiumBy": "By {metric}",
+    "gearSplit": "Referenced Gears",
+    "gearSplitNote": "Among referenced characters. This is not the full roster.",
+    "historyPending": "Fame and rank changes will appear with the next comparable reading.",
+    "bestDay": "Best gain of the day",
+    "podiumEmpty": "Not enough values to build a podium.",
+    "losePodium": "Lose has no podium.",
+    "order": {
+      "desc": "Descending",
+      "asc": "Ascending"
+    },
+    "stats": {
+      "rank": "OSR ranking",
+      "members": "Announced roster",
+      "fame": "Brigade Fame",
+      "nation": "Nation"
+    },
+    "distinctions": {
+      "eyebrow": "Current month",
+      "title": "Distinctions",
+      "lead": "Calculated from referenced characters. The civil month is not bounded yet, so nothing is archived.",
+      "unawarded": "Not awarded",
+      "archive": "No archived distinction.",
+      "items": {
+        "ace": "Ace of the Month",
+        "duel": "Duel Master",
+        "rising": "Rising Star"
+      },
+      "status": {
+        "provisional": "Provisional",
+        "unavailable": "Unavailable"
+      },
+      "reasons": {
+        "ok": "Criterion met.",
+        "partial": "Among referenced characters.",
+        "win-unconfirmed": "The meaning of Win is not established.",
+        "period-incomplete": "This month''s history is incomplete.",
+        "no-positive": "No positive gain to separate."
+      }
+    },
+    "columns": {
+      "rank": "Rank",
+      "pilot": "Pilot",
+      "nation": "Nation",
+      "gear": "Gear",
+      "level": "Level",
+      "fame": "Fame",
+      "day": "Fame 24 h",
+      "week": "Fame 7 d",
+      "rankDelta": "Rank 24 h"
+    },
+    "gears": {
+      "all": "All Gears",
+      "I": "I-Gear",
+      "B": "B-Gear",
+      "A": "A-Gear",
+      "M": "M-Gear"
+    },
+    "sorts": {
+      "fame": "Fame",
+      "monthly": "Monthly",
+      "win": "Duels won",
+      "lose": "Lose",
+      "level": "Level"
+    },
+    "coverage": {
+      "complete": "{visible} characters, matching the official count of {members} members.",
+      "public-list-shorter-than-roster": "{visible} referenced characters out of {members} announced members. The public boards that were read do not cover the rest of the roster.",
+      "list-not-finished": "The public board was not read through to the end. The characters shown are not the roster.",
+      "duplicate-nicknames": "Identical nicknames make the list ambiguous. It is not presented as complete.",
+      "members-unknown": "The official member count is missing. The list is not presented as complete.",
+      "brigade-missing": "The official brigade row is missing from the public ranking."
+    }
+  },
+  "footer": {
+    "navigate": "Navigate",
+    "presence": "Find us on",
+    "game": "Old School Rivals",
+    "discord": "Discord",
+    "youtube": "YouTube",
+    "disclaimer": "VIT is an independent brigade playing on Old School Rivals. This website is not affiliated with the server administration or the publishers of AceOnline.",
+    "rights": "© {year} {name}. All rights reserved."
+  },
+  "apply": {
+    "index": "Application",
+    "title": "Join VIT",
+    "intro": "Tell us about your character, experience and availability. The application takes three steps and does not require an account.",
+    "beforeLink": "Read our recruitment expectations before applying.",
+    "access": "Access to VIT''s Discord is provided once the brigade has approved your application.",
+    "notice": "The application form is not connected yet. You can fill it in and review your answers, but applications cannot be submitted at this time. A draft stays in this tab until you close it, then it is cleared.",
+    "aside": {
+      "kicker": "LOYALTY. HONOUR. EXCELLENCE.",
+      "line": "Your place in VIT.",
+      "text": "Your experience and attitude matter more to us than your level or equipment. Tell us about your pilot and how you play."
+    },
+    "stepLeads": {
+      "identity": "There is no minimum level requirement. All Gear types are considered.",
+      "experience": "Your availability helps us get to know you. There is no stated minimum number of hours.",
+      "motivation": "Your experience in wars, your approach to teamwork, your expectations or anything relevant to your application."
+    },
+    "stepLabel": "Step {current} of {total}",
+    "steps": {
+      "identity": "Pilot identity",
+      "experience": "Experience",
+      "motivation": "How you play"
+    },
+    "required": "Required",
+    "optional": "Optional",
+    "fields": {
+      "osrNickname": {
+        "label": "OSR nickname",
+        "hint": "The name of your pilot on Old School Rivals."
+      },
+      "discordUsername": {
+        "label": "Discord username",
+        "hint": "The username itself, without the @."
+      },
+      "mainGear": {
+        "label": "Main Gear",
+        "hint": "All Gear types are considered."
+      },
+      "level": {
+        "label": "Current level",
+        "hint": "There is no minimum level requirement."
+      },
+      "spokenLanguages": {
+        "label": "Spoken languages",
+        "hint": "Select every language you can use with the brigade. Add another if needed."
+      },
+      "otherLanguage": {
+        "label": "Other language",
+        "hint": "Name the language that is not listed."
+      },
+      "aceOnlineExperience": {
+        "label": "AceOnline experience",
+        "hint": "Your AceOnline experience and how you play."
+      },
+      "previousBrigade": {
+        "label": "Previous brigade",
+        "hint": "Optional. Leave this empty if you prefer not to name one."
+      },
+      "playHours": {
+        "label": "Usual daily playtime",
+        "hint": "There is no stated minimum number of hours. An estimate is enough."
+      },
+      "motivation": {
+        "label": "Anything else you would like us to know",
+        "hint": "Your experience in wars, your approach to teamwork, your expectations or anything relevant to your application.",
+        "placeholder": "Wars, teamwork, expectations, or anything relevant to your application."
+      },
+      "codeAccepted": {
+        "heading": "The VIT code",
+        "intro": "",
+        "label": "I have read the VIT code and agree to follow it."
+      }
+    },
+    "gears": {
+      "A": "A-Gear",
+      "B": "B-Gear",
+      "I": "I-Gear",
+      "M": "M-Gear"
+    },
+    "languages": {
+      "en": "English",
+      "fr": "French",
+      "other": "Other"
+    },
+    "hours": {
+      "under1": "Under 1 h",
+      "1to2": "1 to 2 h",
+      "2to4": "2 to 4 h",
+      "4to6": "4 to 6 h",
+      "6plus": "Over 6 h"
+    },
+    "actions": {
+      "back": "Back",
+      "next": "Continue",
+      "review": "Review my application",
+      "transmit": "Submit my application",
+      "unavailable": "Submission unavailable",
+      "working": "Checking"
+    },
+    "summary": {
+      "title": "Application summary",
+      "accepted": "Accepted",
+      "notAccepted": "Not accepted",
+      "empty": "Not provided"
+    },
+    "validation": {
+      "nicknameLength": "Enter a nickname between {min} and {max} characters.",
+      "discordLength": "Enter a Discord username between {min} and {max} characters.",
+      "discordFormat": "Remove spaces and the leading @.",
+      "gearRequired": "Select a Gear.",
+      "levelRequired": "Enter a valid level.",
+      "levelInvalid": "Enter a valid level.",
+      "levelRange": "Enter a level between {min} and {max}.",
+      "languagesRequired": "Select at least one language.",
+      "otherLanguageRequired": "Name the other language.",
+      "otherLanguageLength": "Keep this within {max} characters.",
+      "experienceLength": "Write between {min} and {max} characters.",
+      "motivationLength": "Keep this within {max} characters.",
+      "codeRequired": "You must accept the VIT code to continue.",
+      "previousBrigadeLength": "Keep this within {max} characters.",
+      "hoursRequired": "Give an estimate, even a rough one."
+    },
+    "result": {
+      "notConnected": "This application was not sent. The transmission service is not connected.",
+      "error": "The application could not be prepared. Review the fields and try again.",
+      "submitted": "The submission service confirmed receipt of this application."
+    },
+    "errors": {
+      "title": "Review the highlighted fields."
+    }
+  },
+  "before": {
+    "title": "Before joining VIT",
+    "intro": "We value AceOnline experience, the right attitude and a willingness to play as a team. Here is what you should know before applying.",
+    "points": {
+      "profile": {
+        "label": "Your profile",
+        "text": "We are looking for experienced, respectful players who want to get involved in the brigade. There is no minimum level requirement. All Gear types are considered, with M-Gears currently prioritised. French-speaking applicants are preferred, but English-speaking players are also considered."
+      },
+      "life": {
+        "label": "Life in the brigade",
+        "text": "We play together in PvP and wars, as well as farming and hunting bosses. We also run private PvP training sessions. During wars, joining Discord voice comms is mandatory, at least to listen, so everyone can follow calls and stay coordinated. You do not have to speak if you are uncomfortable doing so.",
+        "more": "We are competitive, but we all have lives outside the game. We respect everyone''s personal, family and work commitments."
+      },
+      "trial": {
+        "label": "A one-month trial period",
+        "text": "New members go through a one-month trial period. This gives us time to play together, get to know each other and see whether we are a good fit. Advice and support are part of brigade life; help with gear may be considered after successfully completing the trial, depending on individual needs and available resources."
+      },
+      "code": {
+        "label": "The VIT code",
+        "text": "We expect members to respect other players, the server rules and their commitments to the brigade. PvP rivalry and light-hearted banter are welcome as long as they remain respectful. Cheating, toxicity, personal attacks and putting individual interests ahead of the team are not accepted."
+      }
+    },
+    "apply": "Go to the application form",
+    "back": "Return to homepage",
+    "access": "Access to VIT''s Discord is provided once the brigade has approved your application."
+  },
+  "notFound": {
+    "title": "This page is not part of the site.",
+    "home": "Return home"
+  }
+}
