@@ -46,6 +46,9 @@ export function Distinctions({
               <p className={cn("text-[0.66rem] tracking-[0.16em] uppercase", awarded ? "text-gold" : "text-muted")}>
                 {t(`distinctions.items.${item.id}`)}
               </p>
+              {item.id === "rising" ? (
+                <p className="mt-2 text-xs leading-5 text-muted">{t("distinctions.hints.rising")}</p>
+              ) : null}
               <p className="mt-4 min-h-8 font-display text-2xl tracking-[-0.04em]">
                 {awarded ? item.names.join(" · ") : t("distinctions.unawarded")}
               </p>

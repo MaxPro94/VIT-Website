@@ -53,7 +53,7 @@
     "unavailableNote": "Le relevé public OSR n''est pas disponible pour le moment.",
     "stale": "Ce relevé a plus de 26 heures.",
     "rankingLink": "Consulter le classement OSR",
-    "leaderboardLink": "Voir les personnages VIT"
+    "leaderboardLink": "Voir les membres VIT"
   },
   "brotherhood": {
     "index": "02",
@@ -203,6 +203,9 @@
         "ace": "Ace of the Month",
         "duel": "Duel Master",
         "rising": "Rising Star"
+      },
+      "hints": {
+        "rising": "Plus forte hausse de Fame totale sur le mois."
       },
       "status": {
         "provisional": "Provisoire",

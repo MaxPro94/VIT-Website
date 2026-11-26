@@ -57,6 +57,16 @@ body {
   outline-offset: 3px;
 }
 
+.vit-menu {
+  clip-path: inset(0 0 100% 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .vit-menu {
+    clip-path: none;
+  }
+}
+
 .scroll-line {
   display: block;
   width: 1px;

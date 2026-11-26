@@ -299,12 +299,7 @@ export function LeaderboardExperience({
               ) : null}
             </div>
 
-            <Podium
-              groups={podium}
-              metric={query.sort}
-              format={format}
-              note={snapshot.players.exhaustive ? null : t("podiumNote")}
-            />
+            <Podium groups={podium} metric={query.sort} format={format} />
 
             {visible.length === 0 ? (
               <p className="mt-8 text-sm text-muted">{t("empty")}</p>

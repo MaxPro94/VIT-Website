@@ -65,12 +65,13 @@ export async function Statistics({ view }: { view: BrigadeStatisticsView }) {
             ))}
           </Stagger>
         </div>
-        <p className="mt-8 max-w-2xl text-xs leading-5 text-muted">
-          {recordedOn ? t("sourceNote", { date: recordedOn }) : t("unavailableNote")}
-          {view.stale && recordedOn ? ` ${t("stale")}` : ""}
-        </p>
+        {!recordedOn ? (
+          <p className="mt-8 max-w-2xl text-xs leading-5 text-muted">{t("unavailableNote")}</p>
+        ) : view.stale ? (
+          <p className="mt-8 max-w-2xl text-xs leading-5 text-muted">{t("stale")}</p>
+        ) : null}
         {view.nation ? (
-          <p className="mt-2 text-xs text-muted">{t("nation", { nation: view.nation })}</p>
+          <p className="mt-8 text-xs text-muted">{t("nation", { nation: view.nation })}</p>
         ) : null}
         <div className="mt-3 flex flex-wrap gap-x-6 gap-y-2">
           <Link href="/leaderboard" className="text-[0.68rem] tracking-[0.16em] text-gold uppercase">

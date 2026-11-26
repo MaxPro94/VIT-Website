@@ -53,7 +53,7 @@
     "unavailableNote": "The public OSR reading is not available yet.",
     "stale": "This reading is more than 26 hours old.",
     "rankingLink": "View OSR rankings",
-    "leaderboardLink": "View VIT characters"
+    "leaderboardLink": "View VIT members"
   },
   "brotherhood": {
     "index": "02",
@@ -203,6 +203,9 @@
         "ace": "Ace of the Month",
         "duel": "Duel Master",
         "rising": "Rising Star"
+      },
+      "hints": {
+        "rising": "Largest total Fame gain over the month."
       },
       "status": {
         "provisional": "Provisional",

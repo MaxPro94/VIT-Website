@@ -91,7 +91,7 @@ export function RankingTable({
   }
 
   return (
-    <div ref={root} className="mt-4 overflow-x-auto border-t border-line">
+    <div ref={root} className="mt-8 overflow-x-auto border-t border-line">
       <table className="board-table w-full min-w-[760px] border-separate border-spacing-0 text-left text-sm">
         <caption className="sr-only">{t("title")}</caption>
         <thead className="text-[0.66rem] text-muted">

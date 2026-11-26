@@ -14,12 +14,10 @@ export function Podium({
   groups,
   metric,
   format,
-  note,
 }: {
   groups: RankedRow[][];
   metric: MetricId;
   format: (value: number | null) => string;
-  note: string | null;
 }) {
   const t = useTranslations("leaderboard");
   const root = useRef<HTMLElement>(null);
@@ -110,11 +108,11 @@ export function Podium({
                   <div key={row.character.nickname} data-podium-pilot={row.character.nickname}>
                     {/* Reserved for a future transparent gear capture. Empty until a real asset exists. */}
                     <span data-gear-art={row.character.gear} className="hidden" />
-                    <div className="overflow-hidden">
+                    <div>
                       <p
                         data-podium-name
                         className={cn(
-                          "font-display leading-[0.92] tracking-[-0.045em]",
+                          "font-display leading-[1.15] tracking-[-0.045em]",
                           place === 1 ? "text-[2rem] md:text-[2.7rem]" : "text-[1.45rem] md:text-[1.7rem]",
                         )}
                       >
@@ -139,7 +137,6 @@ export function Podium({
           );
         })}
       </ol>
-      {note ? <p className="mt-2 text-xs leading-5 text-muted">{note}</p> : null}
     </section>
   );
 }
